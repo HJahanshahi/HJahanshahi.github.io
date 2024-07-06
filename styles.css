@@ -1,13 +1,19 @@
+/* General Styles */
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
     display: flex;
-    height: 100vh;
-    background-color: #f9f9f9;
+    background-color: #f4f4f9;
     color: #333;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Sidebar Styles */
 .sidebar {
     width: 250px;
     background-color: #333;
@@ -16,15 +22,15 @@ body {
     flex-direction: column;
     align-items: center;
     padding: 20px;
+    height: 100vh;
     position: fixed;
-    height: 100%;
-    overflow-y: auto;
 }
 
 .profile img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
+    object-fit: cover;
 }
 
 .profile h1 {
@@ -38,19 +44,18 @@ body {
 }
 
 nav ul {
-    list-style-type: none;
+    list-style: none;
     padding: 0;
     width: 100%;
 }
 
 nav ul li {
     width: 100%;
-    text-align: center;
 }
 
 nav ul li a {
     color: #fff;
-    text-decoration: none;
+    text-align: center;
     display: block;
     padding: 10px;
     margin: 5px 0;
@@ -78,11 +83,11 @@ nav ul li a:hover {
     height: 24px;
 }
 
+/* Main Content Styles */
 main {
     margin-left: 270px;
     padding: 20px;
-    flex: 1;
-    overflow-y: auto;
+    width: calc(100% - 270px);
 }
 
 main h2 {
@@ -101,6 +106,7 @@ main h2 {
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    object-fit: cover;
 }
 
 article {
@@ -117,7 +123,6 @@ article p {
 
 article a {
     margin-right: 10px;
-    text-decoration: none;
     color: #0073e6;
 }
 
@@ -125,13 +130,14 @@ article a:hover {
     text-decoration: underline;
 }
 
+/* Footer Styles */
 footer {
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     background-color: #333;
     color: #fff;
     position: relative;
-    width: calc(100% - 250px);
-    left: 250px;
+    width: calc(100% - 270px);
+    left: 270px;
 }
 
