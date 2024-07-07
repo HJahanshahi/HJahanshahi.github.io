@@ -15,7 +15,7 @@ title: Hadi Jahanshahi - Robotics & Control Systems Researcher
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
 author: Hadi Jahanshahi
 avatar: /hadi.png
-email: hadij@yorku.ca
+
 
 plugins:
   - jekyll-seo-tag
@@ -43,7 +43,7 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: Jahanshahi_H
   card: summary
 logo: logo.png
 social:
@@ -51,6 +51,9 @@ social:
   links:
     - https://www.linkedin.com/in/hadi-jahanshahi
     - https://github.com/HJahanshahi
+    - https://scholar.google.ca/citations?hl=en&user=HEPigBQAAAAJ
+    - https://x.com/Jahanshahi_H
+    
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 
@@ -72,14 +75,15 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: Jahanshahi_H
   card: summary
-logo: logo.png
+logo: hadi.png
 social:
-  name: Shangzhi Huang
+  name: Hadi Jahanshahi
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://www.linkedin.com/in/hadi-jahanshahi
+    - https://github.com/HJahanshahi
+    - https://scholar.google.ca/citations?hl=en&user=HEPigBQAAAAJ
+    - https://x.com/Jahanshahi_H
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
