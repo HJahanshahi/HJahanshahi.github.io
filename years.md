@@ -1,5 +1,5 @@
 ---
-layout: archive-years
-title: Years
-permalink: /years/
+layout: publications-years
+title: Publications
+permalink: /publications/
 ---
