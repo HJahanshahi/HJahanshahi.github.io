@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<h2>Contact Me</h2>
+<h2>I am always open to new opportunities, whether it be collaborations, speaking engagements, or simply discussing the latest trends in robotics and control systems.</h2>
 <form action="https://formspree.io/f/movaqblp" method="POST" class="contact-form">
   <div class="form-group">
     <label for="name">Name:</label>
