@@ -81,9 +81,10 @@ permalink: /articles/
   <h3>Complete Analysis and Engineering Applications of a Megastable Nonlinear Oscillator</h3>
   <p>Explore my highly acclaimed article, "Complete Analysis and Engineering Applications of a Megastable Nonlinear Oscillator," published in 2018. Recognized as the most cited article among those published between 2018 and 2020 in the prestigious International Journal of Non-Linear Mechanics, this work delves into the comprehensive analysis and practical engineering applications of a megastable nonlinear oscillator.</p>
   <div class="abstract">
-    <p>This article has made significant contributions to the field and is a must-read for researchers and engineers interested in nonlinear dynamics. You can access the full article through the following links:</p>
+    <p>In this paper, we investigate some unrevealed features of a newly introduced megastable chaotic oscillator. This oscillator has a rich dynamical behavior including limit cycle, torus and strange attractor. Also it has coexisting self excited and hidden attractors. Such multi-stable oscillator with coexisting self excited and hidden attractors is very rare in the literature. We have studied the oscillator dynamics using an analog circuit. Also a novel fuzzy-based robust and adaptive control method is designed to control this oscillator.</p>
   </div>
   <div class="links">
+    </p>You can access the full article through the following links:</p>
     <p><a href="https://www.sciencedirect.com/science/article/pii/S0020746218303433" target="_blank">Read Full Article</a></p>
     <p><a href="https://doi.org/10.1016/j.ijnonlinmec.2018.08.020" target="_blank">https://doi.org/10.1016/j.ijnonlinmec.2018.08.020</a></p>
   </div>
