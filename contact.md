@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<h2>I am always open to new opportunities, whether it be collaborations, speaking engagements, or simply discussing the latest trends in robotics and control systems.</h2>
+<h3>I am always open to exploring new opportunities, whether they involve collaborations, speaking engagements, or discussions on the latest trends in robotics and control systems. Please feel free to reach out to me by completing the form below.</h3>
 <form action="https://formspree.io/f/movaqblp" method="POST" class="contact-form">
   <div class="form-group">
     <label for="name">Name:</label>
