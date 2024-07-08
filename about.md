@@ -65,38 +65,102 @@ permalink: /about/
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Neural Networks">
       <h4>Artificial Neural Networks</h4>
+      <ul>
+        <li>Artificial Neural Networks (ANN)</li>
+        <li>Convolutional Neural Networks (CNN)</li>
+        <li>Recurrent Neural Networks (RNN)</li>
+        <li>Deep Reinforcement Learning</li>
+      </ul>
     </div>
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/robot-2.png" alt="Robotics">
       <h4>Robotics</h4>
+      <ul>
+        <li>Space Robotic Manipulators</li>
+        <li>Autonomous Systems</li>
+        <li>Control Frameworks</li>
+        <li>Robot Perception and Sensing</li>
+      </ul>
     </div>
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/code-file.png" alt="Programming Languages">
       <h4>Programming Languages</h4>
+      <ul>
+        <li>Python</li>
+        <li>C++</li>
+        <li>MATLAB</li>
+      </ul>
     </div>
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/software.png" alt="Tools and Software">
       <h4>Tools and Software</h4>
+      <ul>
+        <li>Simulink</li>
+        <li>ROS</li>
+        <li>AutoCAD</li>
+        <li>PLC</li>
+        <li>Pybullet</li>
+        <li>Mujoco</li>
+        <li>Ansys</li>
+        <li>SolidWorks</li>
+        <li>Gazebo</li>
+      </ul>
     </div>
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/model.png" alt="Modeling and Simulation">
       <h4>Modeling and Simulation</h4>
+      <ul>
+        <li>Dynamic Modeling</li>
+        <li>Kinematic Modeling</li>
+        <li>Finite Element Analysis (FEA)</li>
+        <li>System Simulation and Verification</li>
+        <li>System Identification</li>
+      </ul>
     </div>
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/computer-vision.png" alt="Computer Vision">
       <h4>Computer Vision</h4>
+      <ul>
+        <li>Image Processing</li>
+        <li>Object Detection and Recognition</li>
+        <li>Feature Extraction</li>
+        <li>3D Reconstruction</li>
+        <li>Motion Tracking</li>
+      </ul>
     </div>
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning">
       <h4>Machine Learning</h4>
+      <ul>
+        <li>PyTorch</li>
+        <li>TensorFlow</li>
+        <li>Scikit-learn</li>
+        <li>Keras</li>
+      </ul>
     </div>
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/filter.png" alt="Kalman Filtering">
       <h4>Kalman Filtering</h4>
+      <ul>
+        <li>Kalman Filter (KF)</li>
+        <li>Extended Kalman Filter (EKF)</li>
+        <li>Unscented Kalman Filter (UKF)</li>
+      </ul>
     </div>
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/teamwork.png" alt="Soft Skills">
       <h4>Soft Skills</h4>
+      <ul>
+        <li>Technical Writing</li>
+        <li>Presentations and Public Speaking</li>
+        <li>Project Management</li>
+        <li>Research and Data Documentation</li>
+        <li>Problem-Solving</li>
+        <li>Adaptability and Quick Learning</li>
+        <li>Leadership and Team Management</li>
+        <li>Strategic Planning</li>
+        <li>Innovation and Creativity</li>
+      </ul>
     </div>
   </div>
 
