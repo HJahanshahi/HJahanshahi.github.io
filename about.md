@@ -63,7 +63,7 @@ permalink: /about/
   <h3>Expertise</h3>
   <div class="icons">
     <div class="icon">
-      <img src="/assets/images/icon.png" alt="Artificial Neural Networks">
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Neural Networks">
       <h4>Artificial Neural Networks</h4>
       <ul>
         <li>Artificial Neural Networks (ANN)</li>
@@ -73,7 +73,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="/assets/images/icon.png" alt="Robotics">
+      <img src="https://img.icons8.com/color/48/000000/robot-2.png" alt="Robotics">
       <h4>Robotics</h4>
       <ul>
         <li>Space Robotic Manipulators</li>
@@ -83,7 +83,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="/assets/images/icon.png" alt="Programming Languages">
+      <img src="https://img.icons8.com/color/48/000000/code-file.png" alt="Programming Languages">
       <h4>Programming Languages</h4>
       <ul>
         <li>Python</li>
@@ -92,7 +92,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="/assets/images/icon.png" alt="Tools and Software">
+      <img src="https://img.icons8.com/color/48/000000/software.png" alt="Tools and Software">
       <h4>Tools and Software</h4>
       <ul>
         <li>Simulink</li>
@@ -107,7 +107,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="/assets/images/icon.png" alt="Modeling and Simulation">
+      <img src="https://img.icons8.com/color/48/000000/model.png" alt="Modeling and Simulation">
       <h4>Modeling and Simulation</h4>
       <ul>
         <li>Dynamic Modeling</li>
@@ -118,7 +118,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="/assets/images/icon.png" alt="Computer Vision">
+      <img src="https://img.icons8.com/color/48/000000/computer-vision.png" alt="Computer Vision">
       <h4>Computer Vision</h4>
       <ul>
         <li>Image Processing</li>
@@ -129,7 +129,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="/assets/images/icon.png" alt="Machine Learning">
+      <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning">
       <h4>Machine Learning</h4>
       <ul>
         <li>PyTorch</li>
@@ -139,7 +139,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="/assets/images/icon.png" alt="Kalman Filtering">
+      <img src="https://img.icons8.com/color/48/000000/filter.png" alt="Kalman Filtering">
       <h4>Kalman Filtering</h4>
       <ul>
         <li>Kalman Filter (KF)</li>
@@ -148,7 +148,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="/assets/images/icon.png" alt="Soft Skills">
+      <img src="https://img.icons8.com/color/48/000000/teamwork.png" alt="Soft Skills">
       <h4>Soft Skills</h4>
       <ul>
         <li>Technical Writing</li>
