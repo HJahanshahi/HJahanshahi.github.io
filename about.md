@@ -4,80 +4,109 @@ title: About
 permalink: /about/
 ---
 
-I am a researcher specializing in control systems and robotics, with over ten years of experience in academic research environments. My research focuses on the development of novel control frameworks for the autonomous tracking, capturing, and post-capture stabilization of free-floating spacecraft by space robotic manipulators, utilizing advanced machine learning techniques. This work embodies a mix of control systems engineering and cutting-edge robotics, aimed at advancing space exploration technologies.
+<style>
+  .about-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  .about-section h2 {
+    color: #007BFF;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  .about-section h3 {
+    color: #0056b3;
+    margin-top: 30px;
+  }
+  .about-section p, .about-section ul {
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  .about-section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  .about-section ul li::before {
+    content: "✔️";
+    color: #007BFF;
+    margin-right: 10px;
+  }
+  .about-section .icons {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .about-section .icon {
+    margin: 5px 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    flex: 1 1 calc(33.333% - 20px);
+    box-sizing: border-box;
+  }
+  .about-section .icon img {
+    max-width: 40px;
+    margin-bottom: 10px;
+  }
+  .about-section .icon h4 {
+    margin-top: 5px;
+  }
+</style>
 
-Expertise
-Artificial Neural Networks
+<div class="about-section">
+  <h2>About Me</h2>
+  <p>I am a researcher specializing in control systems and robotics, with over ten years of experience in academic research environments. My research focuses on the development of novel control frameworks for the autonomous tracking, capturing, and post-capture stabilization of free-floating spacecraft by space robotic manipulators, utilizing advanced machine learning techniques. This work embodies a mix of control systems engineering and cutting-edge robotics, aimed at advancing space exploration technologies.</p>
+  
+  <h3>Expertise</h3>
+  <div class="icons">
+    <div class="icon">
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Neural Networks">
+      <h4>Artificial Neural Networks</h4>
+    </div>
+    <div class="icon">
+      <img src="https://img.icons8.com/color/48/000000/robot-2.png" alt="Robotics">
+      <h4>Robotics</h4>
+    </div>
+    <div class="icon">
+      <img src="https://img.icons8.com/color/48/000000/code-file.png" alt="Programming Languages">
+      <h4>Programming Languages</h4>
+    </div>
+    <div class="icon">
+      <img src="https://img.icons8.com/color/48/000000/software.png" alt="Tools and Software">
+      <h4>Tools and Software</h4>
+    </div>
+    <div class="icon">
+      <img src="https://img.icons8.com/color/48/000000/model.png" alt="Modeling and Simulation">
+      <h4>Modeling and Simulation</h4>
+    </div>
+    <div class="icon">
+      <img src="https://img.icons8.com/color/48/000000/computer-vision.png" alt="Computer Vision">
+      <h4>Computer Vision</h4>
+    </div>
+    <div class="icon">
+      <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning">
+      <h4>Machine Learning</h4>
+    </div>
+    <div class="icon">
+      <img src="https://img.icons8.com/color/48/000000/filter.png" alt="Kalman Filtering">
+      <h4>Kalman Filtering</h4>
+    </div>
+    <div class="icon">
+      <img src="https://img.icons8.com/color/48/000000/teamwork.png" alt="Soft Skills">
+      <h4>Soft Skills</h4>
+    </div>
+  </div>
 
-Artificial Neural Networks (ANN)
-Convolutional Neural Networks (CNN)
-Recurrent Neural Networks (RNN)
-Deep Reinforcement Learning
-Robotics
+  <h3>Professional Experience</h3>
+  <p>I am proficient in several programming languages and tools, with a particular focus on dynamics modeling, simulation, and verification using MATLAB. Throughout my academic career, I have demonstrated a keen attention to detail and strong organizational skills, which are crucial for maintaining accurate records of research processes and findings.</p>
+  <p>I have a proven track record of publishing my research in prestigious academic journals and presenting at international conferences. My ability to write and present complex technical information effectively to both academic and non-academic stakeholders is one of my key strengths.</p>
 
-Space Robotic Manipulators
-Autonomous Systems
-Control Frameworks
-Robot Perception and Sensing
-Programming Languages
+  <h3>Personal Attributes</h3>
+  <p>In addition to my technical skills, I am highly adaptable and a quick learner, capable of embracing new technologies and processes seamlessly. This adaptability has been essential in my research and will continue to be a valuable asset in my future endeavors.</p>
 
-Python
-C++
-MATLAB
-Tools and Software
-
-Simulink
-ROS
-AutoCAD
-PLC
-Pybullet
-Mujoco
-Ansys
-SolidWorks
-Gazebo
-Modeling and Simulation
-
-Dynamic Modeling
-Kinematic Modeling
-Finite Element Analysis (FEA)
-System Simulation and Verification
-System Identification
-Computer Vision
-
-Image Processing
-Object Detection and Recognition
-Feature Extraction
-3D Reconstruction
-Motion Tracking
-Machine Learning
-
-PyTorch
-TensorFlow
-Scikit-learn
-Keras
-Kalman Filtering
-
-Kalman Filter (KF)
-Extended Kalman Filter (EKF)
-Unscented Kalman Filter (UKF)
-Soft Skills
-
-Technical Writing
-Presentations and Public Speaking
-Project Management
-Research and Data Documentation
-Problem-Solving
-Adaptability and Quick Learning
-Leadership and Team Management
-Strategic Planning
-Innovation and Creativity
-Professional Experience
-I am proficient in several programming languages and tools, with a particular focus on dynamics modeling, simulation, and verification using MATLAB. Throughout my academic career, I have demonstrated a keen attention to detail and strong organizational skills, which are crucial for maintaining accurate records of research processes and findings.
-
-I have a proven track record of publishing my research in prestigious academic journals and presenting at international conferences. My ability to write and present complex technical information effectively to both academic and non-academic stakeholders is one of my key strengths.
-
-Personal Attributes
-In addition to my technical skills, I am highly adaptable and a quick learner, capable of embracing new technologies and processes seamlessly. This adaptability has been essential in my research and will continue to be a valuable asset in my future endeavors.
-
-Future Aspirations
-Looking ahead, I aim to continue my career in academia while also aspiring to launch my own company. My primary industry interest lies in space, but I am also deeply intrigued by the potential applications of robotics and control systems in healthcare.
+  <h3>Future Aspirations</h3>
+  <p>Looking ahead, I aim to continue my career in academia while also aspiring to launch my own company. My primary industry interest lies in space, but I am also deeply intrigued by the potential applications of robotics and control systems in healthcare.</p>
+</div>
