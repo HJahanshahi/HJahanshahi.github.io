@@ -118,7 +118,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="https://img.icons8.com/color/48/000000/computer-vision.png" alt="Computer Vision">
+      <img src="https://img.icons8.com/color/48/000000/view-file.png" alt="Computer Vision">
       <h4>Computer Vision</h4>
       <ul>
         <li>Image Processing</li>
