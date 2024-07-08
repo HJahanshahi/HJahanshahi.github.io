@@ -1,1 +1,72 @@
 @import "hamilton/main";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #007BFF;
+}
+
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.contact-form .form-group {
+  margin-bottom: 20px;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.contact-form textarea {
+  resize: vertical;
+  height: 200px; /* Set a larger height for the message box */
+}
+
+.contact-form .form-actions {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.contact-form .btn {
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.contact-form .btn-primary {
+  background-color: #007BFF;
+  color: white;
+}
+
+.contact-form .btn-secondary {
+  background-color: #DC3545;
+  color: white;
+}
+
+.contact-form .btn:hover {
+  opacity: 0.9;
+}
+
+
+
