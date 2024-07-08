@@ -57,6 +57,37 @@ permalink: /articles/
     <p><strong>DOI:</strong> <a href="https://doi.org/10.1016/j.actaastro.2024.04.012" target="_blank">https://doi.org/10.1016/j.actaastro.2024.04.012</a></p>
   </div>
 
+  <h2>Discover My Other Articles</h2>
+  
+  <h3>A New Multi-Stable Fractional-Order Four-Dimensional System with Self-Excited and Hidden Chaotic Attractors: Dynamic Analysis and Adaptive Synchronization Using a Novel Fuzzy Adaptive Sliding Mode Control Method</h3>
+  <p>Discover my widely cited article, "A New Multi-Stable Fractional-Order Four-Dimensional System with Self-Excited and Hidden Chaotic Attractors: Dynamic Analysis and Adaptive Synchronization Using a Novel Fuzzy Adaptive Sliding Mode Control Method," published in 2020 in the prestigious Applied Soft Computing journal. As of July 8, 2024, this article has received 136 citations, underscoring its significant impact in the field.</p>
+  <div class="abstract">
+    <p>Four-dimensional chaotic systems are a fascinating research area due to their unique features. This paper introduces a novel fractional-order four-dimensional chaotic system featuring self-excited and hidden attractors, characterized by the phenomenon of multi-stability. This means the system can exhibit multiple distinct dynamics from different initial conditions. It stands out as one of the few works published in the last five years in this specialized category.</p>
+    <p>Key contributions of this work include:</p>
+    <ul>
+      <li>Characterization of the chaotic behavior using Lyapunov exponents.</li>
+      <li>Analysis of system sensitivity to initial conditions.</li>
+      <li>Systematic study of hidden chaotic behavior through phase portraits and bifurcation diagrams.</li>
+    </ul>
+    <p>Additionally, the paper proposes a new fuzzy adaptive sliding mode control (FASMC) method for the synchronization of fractional-order systems. This innovative control technique combines adaptive regulation and fuzzy logic with conventional sliding mode control, ensuring synchronization in the presence of dynamic uncertainties and external disturbances. The Lyapunov stability theorem is applied to guarantee system stability, and the method effectively avoids chattering while maintaining high performance.</p>
+    <p>Simulation results demonstrate the effectiveness of the proposed control scheme.</p>
+  </div>
+  <div class="links">
+    <p>For more details, access the full article through the following links:</p>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S1568494619307240#questions-and-answers" target="_blank">Read Full Article</a></p>
+    <p><a href="https://doi.org/10.1016/j.asoc.2019.105943" target="_blank">https://doi.org/10.1016/j.asoc.2019.105943</a></p>
+  </div>
+  
+  <h3>Complete Analysis and Engineering Applications of a Megastable Nonlinear Oscillator</h3>
+  <p>Explore my highly acclaimed article, "Complete Analysis and Engineering Applications of a Megastable Nonlinear Oscillator," published in 2018. Recognized as the most cited article among those published between 2018 and 2020 in the prestigious International Journal of Non-Linear Mechanics, this work delves into the comprehensive analysis and practical engineering applications of a megastable nonlinear oscillator.</p>
+  <div class="abstract">
+    <p>This article has made significant contributions to the field and is a must-read for researchers and engineers interested in nonlinear dynamics. You can access the full article through the following links:</p>
+  </div>
+  <div class="links">
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S0020746218303433" target="_blank">Read Full Article</a></p>
+    <p><a href="https://doi.org/10.1016/j.ijnonlinmec.2018.08.020" target="_blank">https://doi.org/10.1016/j.ijnonlinmec.2018.08.020</a></p>
+  </div>
+  
   <h2>Recommended Book</h2>
   <p>I recommend exploring the book titled <strong>Recent Advances in Robot Path Planning Algorithms: A Review of Theory and Experiment</strong>. The dominant theme of this book is to introduce various path planning methods and present some of the most suitable ones for robotic routing. These methods are capable of operating on a variety of robots and are resistant to disturbances. Features such as real-time performance, autonomy, high-risk area identification, and risk management are also discussed.</p>
 
