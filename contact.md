@@ -20,7 +20,7 @@ permalink: /contact/
   </div>
   <div class="form-group">
     <label for="message">Message:</label>
-    <textarea id="message" name="message" rows="5" required></textarea>
+    <textarea id="message" name="message" rows="10" required></textarea>
   </div>
   <div class="form-actions">
     <button type="submit" class="btn btn-primary">Send</button>
