@@ -107,7 +107,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="https://img.icons8.com/color/48/000000/model.png" alt="Modeling and Simulation">
+      <img src="https://img.icons8.com/color/48/000000/process.png" alt="Modeling and Simulation">
       <h4>Modeling and Simulation</h4>
       <ul>
         <li>Dynamic Modeling</li>
