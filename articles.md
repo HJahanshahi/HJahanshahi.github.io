@@ -23,7 +23,7 @@ permalink: /articles/
     margin-bottom: 20px;
     line-height: 1.6;
   }
-  .articles-section .abstract {
+  .articles-section .abstract, .articles-section .book-description {
     padding: 15px;
     background-color: #f9f9f9;
     border-left: 4px solid #007BFF;
@@ -55,5 +55,24 @@ permalink: /articles/
   <div class="links">
     <p><strong>Link:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S009457652400211X" target="_blank">Read Full Article</a></p>
     <p><strong>DOI:</strong> <a href="https://doi.org/10.1016/j.actaastro.2024.04.012" target="_blank">https://doi.org/10.1016/j.actaastro.2024.04.012</a></p>
+  </div>
+
+  <h2>Recommended Book</h2>
+  <p>I recommend exploring the book titled <strong>Recent Advances in Robot Path Planning Algorithms: A Review of Theory and Experiment</strong>. The dominant theme of this book is to introduce various path planning methods and present some of the most suitable ones for robotic routing. These methods are capable of operating on a variety of robots and are resistant to disturbances. Features such as real-time performance, autonomy, high-risk area identification, and risk management are also discussed.</p>
+
+  <div class="book-description">
+    <p>The book is structured as follows:</p>
+    <ul>
+      <li><strong>Chapter 1:</strong> Introduction to the significance of robots and the navigation and routing theme.</li>
+      <li><strong>Chapter 2:</strong> Routing in unknown environments, including bug algorithms and other conventional methods, along with two recently developed methods.</li>
+      <li><strong>Chapter 3:</strong> Routing in known environments, using created maps or sensors to map the local environment.</li>
+      <li><strong>Chapter 4:</strong> Robot path planning relying on vision sensors and applicable computing hardware, including routing methods with mapping capabilities and vision-dependent routing.</li>
+      <li><strong>Chapter 5:</strong> Performance evaluation of key routing methods in various environments, including obstacle collision avoidance techniques and implementations on the Nao humanoid robot.</li>
+    </ul>
+  </div>
+
+  <div class="links">
+    <p>For more details and to purchase the book, please visit:</p>
+    <p><a href="https://novapublishers.com/shop/recent-advances-in-robot-path-planning-algorithms-a-review-of-theory-and-experiment/" target="_blank">Recent Advances in Robot Path Planning Algorithms: A Review of Theory and Experiment</a></p>
   </div>
 </div>
