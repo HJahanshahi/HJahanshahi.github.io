@@ -84,7 +84,7 @@ permalink: /articles/
     <p>In this paper, we investigate some unrevealed features of a newly introduced megastable chaotic oscillator. This oscillator has a rich dynamical behavior including limit cycle, torus and strange attractor. Also it has coexisting self excited and hidden attractors. Such multi-stable oscillator with coexisting self excited and hidden attractors is very rare in the literature. We have studied the oscillator dynamics using an analog circuit. Also a novel fuzzy-based robust and adaptive control method is designed to control this oscillator.</p>
   </div>
   <div class="links">
-    </p>You can access the full article through the following links:</p>
+    <p>You can access the full article through the following links:</p>
     <p><a href="https://www.sciencedirect.com/science/article/pii/S0020746218303433" target="_blank">Read Full Article</a></p>
     <p><a href="https://doi.org/10.1016/j.ijnonlinmec.2018.08.020" target="_blank">https://doi.org/10.1016/j.ijnonlinmec.2018.08.020</a></p>
   </div>
