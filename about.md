@@ -57,7 +57,6 @@ permalink: /about/
 </style>
 
 <div class="about-section">
-  <h2></h2>
   <p>I am a researcher specializing in control systems and robotics, with over ten years of experience in academic research environments. My research focuses on the development of novel control frameworks for the autonomous tracking, capturing, and post-capture stabilization of free-floating spacecraft by space robotic manipulators, utilizing advanced machine learning techniques. This work embodies a mix of control systems engineering and cutting-edge robotics, aimed at advancing space exploration technologies.</p>
 
   <h3>Personal Attributes</h3>
