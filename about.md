@@ -60,7 +60,19 @@ permalink: /about/
   <h2>About Me</h2>
   <p>I am a researcher specializing in control systems and robotics, with over ten years of experience in academic research environments. My research focuses on the development of novel control frameworks for the autonomous tracking, capturing, and post-capture stabilization of free-floating spacecraft by space robotic manipulators, utilizing advanced machine learning techniques. This work embodies a mix of control systems engineering and cutting-edge robotics, aimed at advancing space exploration technologies.</p>
   
-  <h3>Expertise</h3>
+
+  <h3>Professional Experience</h3>
+  <p>I am proficient in several programming languages and tools, with a particular focus on dynamics modeling, simulation, and verification using MATLAB. Throughout my academic career, I have demonstrated a keen attention to detail and strong organizational skills, which are crucial for maintaining accurate records of research processes and findings.</p>
+  <p>I have a proven track record of publishing my research in prestigious academic journals and presenting at international conferences. My ability to write and present complex technical information effectively to both academic and non-academic stakeholders is one of my key strengths.</p>
+
+  <h3>Personal Attributes</h3>
+  <p>In addition to my technical skills, I am highly adaptable and a quick learner, capable of embracing new technologies and processes seamlessly. This adaptability has been essential in my research and will continue to be a valuable asset in my future endeavors.</p>
+
+  <h3>Future Aspirations</h3>
+  <p>Looking ahead, I aim to continue my career in academia while also aspiring to launch my own company. My primary industry interest lies in space, but I am also deeply intrigued by the potential applications of robotics and control systems in healthcare.</p>
+</div>
+
+ <h3>Expertise</h3>
   <div class="icons">
     <div class="icon">
       <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Neural Networks">
@@ -163,14 +175,3 @@ permalink: /about/
       </ul>
     </div>
   </div>
-
-  <h3>Professional Experience</h3>
-  <p>I am proficient in several programming languages and tools, with a particular focus on dynamics modeling, simulation, and verification using MATLAB. Throughout my academic career, I have demonstrated a keen attention to detail and strong organizational skills, which are crucial for maintaining accurate records of research processes and findings.</p>
-  <p>I have a proven track record of publishing my research in prestigious academic journals and presenting at international conferences. My ability to write and present complex technical information effectively to both academic and non-academic stakeholders is one of my key strengths.</p>
-
-  <h3>Personal Attributes</h3>
-  <p>In addition to my technical skills, I am highly adaptable and a quick learner, capable of embracing new technologies and processes seamlessly. This adaptability has been essential in my research and will continue to be a valuable asset in my future endeavors.</p>
-
-  <h3>Future Aspirations</h3>
-  <p>Looking ahead, I aim to continue my career in academia while also aspiring to launch my own company. My primary industry interest lies in space, but I am also deeply intrigued by the potential applications of robotics and control systems in healthcare.</p>
-</div>
