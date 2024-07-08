@@ -49,6 +49,8 @@ navigation:
     url: "/projects"
   - text: "Publications"
     url: "/publications"
+  - text: "Scientific Publications"
+    url: "/scientificpublications"
   - text: "Blog"
     url: "/blog"
   - text: "Contact"
