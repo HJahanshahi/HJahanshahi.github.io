@@ -92,7 +92,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="https://img.icons8.com/color/48/000000/software.png" alt="Tools and Software">
+      <img src="https://img.icons8.com/color/48/000000/toolbox.png" alt="Tools and Software">
       <h4>Tools and Software</h4>
       <ul>
         <li>Simulink</li>
@@ -118,7 +118,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="https://img.icons8.com/color/48/000000/computer-vision.png" alt="Computer Vision">
+      <img src="https://img.icons8.com/color/48/000000/eye-scanning.png" alt="Computer Vision">
       <h4>Computer Vision</h4>
       <ul>
         <li>Image Processing</li>
@@ -129,7 +129,7 @@ permalink: /about/
       </ul>
     </div>
     <div class="icon">
-      <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning">
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Machine Learning">
       <h4>Machine Learning</h4>
       <ul>
         <li>PyTorch</li>
