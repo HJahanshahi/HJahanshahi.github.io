@@ -4,7 +4,7 @@ title: Articles
 permalink: /articles/
 ---
 
-## My Articles
+## Please read my latest review article on Machine Learning in Robotic Grasping. The article is open access and free to download. You can access it via the link provided below the abstract.
 
 ### Review of Machine Learning in Robotic Grasping Control in Space Application
 
