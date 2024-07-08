@@ -1,10 +1,11 @@
-- title: About
-  url: /about/
-- title: Projects
-  url: /projects/
-- title: Publications
-  url: /publications/
-- title: Blog
-  url: /blog/
-- title: Contact
-  url: /contact/
+  - text: "About"
+    url: "/about"
+  - text: "Projects"
+    url: "/projects"
+  - text: "Publications"
+    url: "/publications"
+  - text: "Blog"
+    url: "/blog"
+  - text: "Contact"
+    url: "/contact"
+
