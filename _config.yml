@@ -50,7 +50,7 @@ navigation:
   - text: "Publications"
     url: "/publications"
   - text: "Scientific Publications"
-    url: "/scientificpublications"
+    url: "/scientific-publications"
   - text: "Blog"
     url: "/blog"
   - text: "Contact"
