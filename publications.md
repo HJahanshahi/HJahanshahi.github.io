@@ -12,4 +12,3 @@ permalink: /publications/
   <p><strong>Link:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S009457652400211X" target="_blank">ScienceDirect</a></p>
   <p><strong>DOI:</strong> <a href="https://doi.org/10.1016/j.actaastro.2024.04.012" target="_blank">10.1016/j.actaastro.2024.04.012</a></p>
 </div>
-
