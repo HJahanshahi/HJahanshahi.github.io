@@ -1,5 +1,5 @@
 title: Hadi Jahanshahi - Robotics & Control Systems Researcher
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+description: Exploring the frontiers of control systems and robotics with over a decade of research experience.
 author: Hadi Jahanshahi
 avatar: /hadi.png
 
@@ -12,11 +12,9 @@ plugins:
 paginate: 10
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
-#
 # google_analytics:
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
-#
 # disqus:
 
 # Jekyll
@@ -30,8 +28,8 @@ exclude:
 # =========================
 twitter:
   username: Jahanshahi_H
-  card: summary
-logo: hadi.png
+  card: summary_large_image
+logo: /hadi.png
 social:
   name: Hadi Jahanshahi
   links:
@@ -47,8 +45,8 @@ navigation:
     url: "/about/"
   - text: "Projects"
     url: "/projects/"
-  - text: "Scientific Publications"
-    url: "/scientific-publications/"
+  - text: "Articles"
+    url: "/articles/"
   - text: "Blog"
     url: "/blog/"
   - text: "Contact"
