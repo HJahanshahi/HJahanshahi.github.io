@@ -3,7 +3,7 @@ layout: post
 title: "The Ethical Implications of Over-Reliance on AI: Balancing Innovation with Skill Development"
 date: 2024-07-08
 categories: blog
-video: /assets/videos/cellphilm-HJ.mp4
+video: /cellphilm-HJ.mp4
 ---
 
 ## Introduction
