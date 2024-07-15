@@ -10,6 +10,8 @@ video: /assets/videos/cellphilm-HJ.mp4
 
 In my research, I’ve noticed a growing issue: depending too much on AI can reduce our own skills. This realization prompted me to explore the ethical implications of over-relying on AI tools and to find ways to maintain a balance between leveraging AI capabilities and preserving essential human skills.
 
+<!--more-->
+
 ## The Role of AI in Research
 
 AI tools like ChatGPT have revolutionized the way we work, enabling us to process large data sets efficiently and make faster decisions. These tools are incredibly useful for tasks such as data analysis, natural language processing, and predictive modeling. However, there is a downside to this convenience.
