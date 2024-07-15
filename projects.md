@@ -27,7 +27,6 @@ permalink: /projects/
 </style>
 
 <div class="projects-section">
-  <h2>Projects</h2>
   <p>If you need more information about any of the projects listed below, please contact me and I will be happy to discuss them with you in more detail.</p>
 
   <h3>Ongoing Projects</h3>
