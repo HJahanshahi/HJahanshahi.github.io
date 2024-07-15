@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<style>
+  .blog-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  .blog-section h2 {
+    color: #007BFF;
+    margin-bottom: 20px;
+  }
+  .blog-section p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  .blog-section article {
+    margin-bottom: 40px;
+  }
+</style>
+
+<div class="blog-section">
+  <h2>Blog</h2>
+  <div>
+    {% for post in site.posts %}
+    <article>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url }}">Read more</a>
+    </article>
+    <hr>
+    {% endfor %}
+  </div>
+</div>
