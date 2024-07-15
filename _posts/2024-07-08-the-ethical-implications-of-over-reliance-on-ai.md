@@ -14,11 +14,11 @@ In my research, I’ve noticed a growing issue: depending too much on AI can red
 
 AI tools like ChatGPT have revolutionized the way we work, enabling us to process large data sets efficiently and make faster decisions. These tools are incredibly useful for tasks such as data analysis, natural language processing, and predictive modeling. However, there is a downside to this convenience.
 
+<!--more-->
+
 ## The Downside: Erosion of Critical Skills
 
 While AI can enhance our productivity, an over-reliance on these tools can lead to a decline in important skills such as critical thinking and problem-solving. When we depend too heavily on AI to make decisions, we risk becoming passive recipients of information rather than active analysts. This can hinder our ability to question, verify, and interpret results independently.
-
-<!--more-->
 
 ## Ethical Concerns
 
